@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/cldv6212server/databases/ABCSupermarket20108984",
+      "type": "mssql.azure",
+      "connectionId": "cldv6212server.database.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
